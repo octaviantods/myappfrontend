@@ -15,7 +15,7 @@ export default function RootLayout({
             <h2>My Admin</h2>
             <ul style={{ listStyle: 'none', padding: 0 }}>
               <li><Link href="/dashboard">Dashboard</Link></li>
-              <li><Link href="/dashboard/users">Users</Link></li>
+              <li><Link href="/dashboard/users">UsersT</Link></li>
               <li><Link href="/dashboard/settings">Settings</Link></li>
             </ul>
           </aside>
